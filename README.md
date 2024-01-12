@@ -1,1 +1,1 @@
-# learning but mostly teaching git to collegue and frinds
+# learning but mostly teaching git to collegue and friends
